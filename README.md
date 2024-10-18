@@ -2,7 +2,7 @@
 This Suicide Prediction System leverages data science to analyze various environmental and socioeconomic factors, including GDP, weather conditions, happiness index, suicide rates, and temperature of different countries. By examining these factors, the system aims to identify trends and patterns in suicide rates and develop predictive models to assess suicide risks. The project uses machine learning techniques to provide insights that can help organizations and mental health professionals take proactive measures to prevent suicides and improve public health outcomes.
 
 
-## Suicide Prediction System Website
+## Section 1 - Suicide Prediction System Website
 
 Check out our live website for the Suicide Prediction System [here](https://atharva1000ak.wixsite.com/suicide-prediction-1).
 
