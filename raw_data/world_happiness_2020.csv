@@ -1,0 +1,144 @@
+Overall rank,Country or region,Life evaluation
+1,Finland,7.741
+2,Denmark,7.583
+3,Iceland,7.525
+4,Sweden,7.344
+5,Israel,7.341
+6,Netherlands,7.319
+7,Norway,7.302
+8,Luxembourg,7.122
+9,Switzerland,7.060
+10,Australia,7.057
+11,New Zealand,7.029
+12,Costa Rica,6.955
+13,Kuwait,6.951
+14,Austria,6.905
+15,Canada,6.900
+16,Belgium,6.894
+17,Ireland,6.838
+18,Czechia,6.822
+19,Lithuania,6.818
+20,United Kingdom,6.749
+21,Slovenia,6.743
+22,United Arab Emirates,6.733
+23,United States,6.725
+24,Germany,6.719
+25,Mexico,6.678
+26,Uruguay,6.611
+27,France,6.609
+28,Saudi Arabia,6.594
+29,Kosovo,6.561
+30,Singapore,6.523
+31,Taiwan,6.503
+32,Romania,6.491
+33,El Salvador,6.469
+34,Estonia,6.448
+35,Poland,6.442
+36,Spain,6.421
+37,Serbia,6.411
+38,Chile,6.360
+39,Panama,6.358
+40,Malta,6.346
+41,Italy,6.324
+42,Guatemala,6.287
+43,Nicaragua,6.284
+44,Brazil,6.272
+45,Slovakia,6.257
+46,Latvia,6.234
+47,Uzbekistan,6.195
+48,Argentina,6.188
+49,Kazakhstan,6.188
+50,Cyprus,6.068
+51,Japan,6.060
+52,South Korea,6.058
+53,Philippines,6.048
+54,Vietnam,6.043
+55,Portugal,6.030
+56,Hungary,6.017
+57,Paraguay,5.977
+58,Thailand,5.976
+59,Malaysia,5.975
+60,China,5.973
+61,Honduras,5.968
+62,Bahrain,5.959
+63,Croatia,5.942
+64,Greece,5.934
+65,Bosnia and Herzegovina,5.877
+66,Libya,5.866
+67,Jamaica,5.842
+68,Peru,5.841
+69,Dominican Republic,5.823
+70,Mauritius,5.816
+71,Moldova,5.816
+72,Russia,5.785
+73,Bolivia,5.784
+74,Ecuador,5.725
+75,Kyrgyzstan,5.714
+76,Montenegro,5.707
+77,Mongolia,5.696
+78,Colombia,5.695
+79,Venezuela,5.607
+80,Indonesia,5.568
+81,Bulgaria,5.463
+82,Armenia,5.455
+83,South Africa,5.422
+84,North Macedonia,5.369
+85,Algeria,5.364
+86,Hong Kong,5.316
+87,Albania,5.304
+88,Tajikistan,5.281
+89,Congo (Brazzaville),5.221
+90,Mozambique,5.216
+91,Georgia,5.185
+92,Iraq,5.166
+93,Nepal,5.158
+94,Laos,5.139
+95,Gabon,5.106
+96,Ivory Coast,5.080
+97,Guinea,5.023
+98,Turkey,4.975
+99,Senegal,4.969
+100,Iran,4.923
+101,Azerbaijan,4.893
+102,Nigeria,4.881
+103,State of Palestine,4.879
+104,Cameroon,4.874
+105,Ukraine,4.873
+106,Namibia,4.832
+107,Morocco,4.795
+108,Pakistan,4.657
+109,Niger,4.556
+110,Burkina Faso,4.548
+111,Mauritania,4.505
+112,Gambia,4.485
+113,Chad,4.471
+114,Kenya,4.470
+115,Tunisia,4.422
+116,Benin,4.377
+117,Uganda,4.372
+118,Myanmar,4.354
+119,Cambodia,4.341
+120,Ghana,4.289
+121,Liberia,4.269
+122,Mali,4.232
+123,Madagascar,4.228
+124,Togo,4.214
+125,Jordan,4.186
+126,India,4.054
+127,Egypt,3.977
+128,Sri Lanka,3.898
+129,Bangladesh,3.886
+130,Ethiopia,3.861
+131,Tanzania,3.781
+132,Comoros,3.566
+133,Yemen,3.561
+134,Zambia,3.502
+135,Eswatini,3.502
+136,Malawi,3.421
+137,Botswana,3.383
+138,Zimbabwe,3.341
+139,Congo (Kinshasa),3.295
+140,Sierra Leone,3.245
+141,Lesotho,3.186
+142,Lebanon,2.707
+143,Afghanistan,1.721
