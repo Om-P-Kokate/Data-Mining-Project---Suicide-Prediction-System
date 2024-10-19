@@ -4,7 +4,7 @@ This **Suicide Prediction System** leverages data science to analyze various env
 
 ## Section 1 - Suicide Prediction System Website
 
-Check out our live website for the Suicide Prediction System [here](https://atharva1000ak.wixsite.com/suicide-prediction-1).
+Check out our live website for the Suicide Prediction System [here](https://atharva1000ak.wixsite.com/suicide-prediction).
 
 ## Section 2 - Data Collection, Preparation, Cleaning & Visualizations
 
