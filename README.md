@@ -69,3 +69,12 @@ This project uses data from multiple sources, including:
 - **Bar Charts**: Show the suicide rate across the countries.
 - **Scatter Plots**: Illustrate correlations between population and suicide rates.
 - **Heatmap**: Display the correlation between these factors.
+
+## Section 3 - Model Implementation  
+
+### Model Implemented
+* XGBOOST
+* RANDOM FOREST MODEL
+* KNN
+* LIGHT GBM
+* SUPPORT VECTOR MACHINE (SVM)
