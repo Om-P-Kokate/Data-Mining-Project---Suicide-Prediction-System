@@ -72,7 +72,7 @@ This project uses data from multiple sources, including:
 
 ## Section 3 - Model Implementation  
 
-### Model Implemented
+### Models Implemented
 * XGBOOST
 * RANDOM FOREST MODEL
 * KNN
