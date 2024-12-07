@@ -78,3 +78,10 @@ This project uses data from multiple sources, including:
 * KNN
 * LIGHT GBM
 * SUPPORT VECTOR MACHINE (SVM)
+  
+### Conclusion
+This project explores the application of machine learning techniques to predict suicide risk levels (low, medium, and high) using socioeconomic and demographic data. By leveraging models such as Random Forest, K-Nearest Neighbors (KNN), LightGBM, Support Vector Machines (SVM), and XGBoost, we successfully demonstrated how advanced algorithms can classify risk levels with high accuracy. KNN and Random Forest emerged as the top-performing models, achieving 97% and 93.9% accuracy, respectively, with strong precision and recall metrics.
+
+Key socioeconomic factors, including GDP, Population Size, and Happiness Index, were identified as critical predictors of suicide risk. These findings underscore the potential of integrating data science into public health initiatives to provide actionable insights for suicide prevention. While the models performed well overall, medium-risk classifications presented challenges, highlighting opportunities for further optimization through feature engineering and advanced ensemble techniques.
+
+This project not only showcases the predictive power of machine learning but also emphasizes the importance of ethical considerations and interpretability in sensitive applications like suicide prevention. Future work will focus on refining model performance, incorporating additional data sources, and exploring real-time prediction capabilities to enhance the practical utility of this research.
